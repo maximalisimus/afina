@@ -32,7 +32,9 @@ And also, installing the ArchISO system, which is running as a Live CD/DVD/USB, 
 
 Данному установщику **не нужен** ни **XORG** ( **wayland** ), ни рабочее окружение ( **Desktop environment** ), ни дисплейный менеджер 
 ( **Display Manager** ). Данный скрипт работает полностью в консольном режиме. Достаточно только 
-наличия подключения к интернету и пакета **dialog**.
+наличия подключения к интернету и пакета **dialog**. 
+
+Однако, вы можете запустить скрипт и в графическом режиме, используя **Zenity**.
 
 Также имеется возможность, установки сборки системы в виде **ArchISO - 
 Live CD/DVD/USB ArchLinux** в псевдографическом режиме, используя пакет **dialog**.
@@ -59,6 +61,8 @@ This installer **does not need** either **XORG** ( **wayland** ), nor a working 
 ( **Desktop environment** ), nor a display manager ( **Display Manager** ). 
 This script works completely in console mode. Just enough availability of an 
 internet connection and the **dialog** package.
+
+However, you can also run the script in graphical mode using **Zenity**.
 
 There is also the possibility of, installing the system assembly in the form of "ArchISO" -
 Live CD/DVD/USB ArchLinux in pseudographic mode, using the dialog package.
