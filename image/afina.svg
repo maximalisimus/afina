@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="640"
+   viewBox="0 0 338.66666 169.33333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="afina.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="1280mm"
+     inkscape:zoom="0.39552492"
+     inkscape:cx="671.25986"
+     inkscape:cy="374.18628"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g45366"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px">
+    <sodipodi:guide
+       position="24.323807,95.326853"
+       orientation="0,-1"
+       id="guide3045" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="474.27975"
+       y="1411.785"
+       width="3778.3979"
+       height="817.06366"
+       id="rect33139" />
+    <rect
+       x="952.7077"
+       y="1411.785"
+       width="3042.1838"
+       height="738.13062"
+       id="rect30025" />
+    <rect
+       x="2261.8484"
+       y="164.65985"
+       width="2935.8049"
+       height="759.93731"
+       id="rect17657" />
+    <rect
+       x="1261.703"
+       y="123.14433"
+       width="2990.9746"
+       height="820.93274"
+       id="rect10715" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient23093">
+      <stop
+         style="stop-color:#001731;stop-opacity:1"
+         offset="0"
+         id="stop23089" />
+      <stop
+         style="stop-color:#025c90;stop-opacity:1"
+         offset="0.5079037"
+         id="stop23323" />
+      <stop
+         style="stop-color:#05b8f1;stop-opacity:1"
+         offset="1"
+         id="stop23091" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient21920"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#001731;stop-opacity:1;"
+         offset="0"
+         id="stop21918" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18794"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#002f5d;stop-opacity:1;"
+         offset="0"
+         id="stop18792" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11846"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#025c90;stop-opacity:1;"
+         offset="0"
+         id="stop11844" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9071"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#017dc5;stop-opacity:1;"
+         offset="0"
+         id="stop9069" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4229"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#05b8f1;stop-opacity:1;"
+         offset="0"
+         id="stop4227" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient23093"
+       id="linearGradient23095"
+       x1="193.66087"
+       y1="91.376732"
+       x2="12.362467"
+       y2="92.276375"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30482913,0,0,0.30482913,15.8207,16.60303)" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g45563">
+      <g
+         id="g45366">
+        <path
+           style="fill:url(#linearGradient23095);fill-opacity:1;stroke-width:0.107537"
+           d="m 19.553273,74.006478 c 0,-0.02987 0.331901,-0.64686 0.737561,-1.371097 6.724043,-12.004684 14.449187,-26.410079 17.765862,-33.128742 0.753971,-1.527334 1.39831,-2.804422 1.431859,-2.837974 0.03355,-0.03355 0.413101,0.201656 0.843438,0.522684 0.931445,0.694846 2.199717,1.503079 3.309554,2.109085 0.716861,0.391429 3.384689,1.638966 3.504886,1.638966 0.0257,0 -0.474134,-0.394309 -1.110743,-0.876243 -1.564584,-1.184444 -2.9518,-2.406632 -4.459247,-3.92876 l -1.258576,-1.270833 0.760061,-1.666823 c 1.094974,-2.401279 2.741966,-6.295425 4.400331,-10.404122 0.793741,-1.966538 1.467365,-3.574036 1.496936,-3.572217 0.02957,0.0018 0.679175,1.489825 1.443555,3.30668 4.642337,11.034366 8.01719,17.941226 16.928952,34.646179 1.33976,2.511357 2.4547,4.612184 2.47763,4.668507 0.0229,0.05632 -0.26767,-0.07059 -0.64576,-0.282034 -1.07534,-0.601364 -2.59081,-1.237615 -4.2889,-1.800644 -2.33443,-0.774022 -2.51076,-0.774314 -1.12914,-0.0018 1.80646,1.009951 3.99064,2.515188 6.13838,4.230285 l 1.94441,1.552729 2.27942,4.221436 c 1.25368,2.321792 2.25974,4.241118 2.23568,4.265172 -0.0241,0.02405 -0.30365,-0.109976 -0.62133,-0.297842 -1.26341,-0.747146 -5.13106,-2.830982 -6.87335,-3.70326 -4.7095,-2.357849 -8.743911,-3.919912 -12.392159,-4.798097 -0.781853,-0.188202 -1.433599,-0.350468 -1.448325,-0.360589 -0.01472,-0.01012 0.04488,-0.522532 0.132451,-1.138689 0.499487,-3.514348 -0.23409,-7.298984 -1.896491,-9.784299 -0.744186,-1.112571 -1.487493,-1.803546 -2.455216,-2.282353 -0.651862,-0.322527 -0.771026,-0.344957 -1.82813,-0.344112 -1.073435,9.14e-4 -1.166103,0.01926 -1.826158,0.362771 -1.353183,0.704225 -2.579522,2.232952 -3.331429,4.152876 -0.711017,1.815529 -0.910494,2.997156 -0.907696,5.376847 0.0015,1.42122 0.05294,2.283305 0.168403,2.831927 0.117792,0.559669 0.131281,0.79839 0.04645,0.822008 -0.06575,0.01832 -0.797034,0.189171 -1.625069,0.379692 -4.694515,1.080153 -10.62987,3.633408 -17.843975,7.676073 -2.092076,1.172364 -2.104125,1.178589 -2.104125,1.086668 z"
+           id="path39" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.08065271,0,0,0.08065271,-97.501757,12.693987)"
+           id="text17655"
+           style="font-style:normal;font-weight:normal;font-size:666.667px;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17657);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="2261.8477"
+             y="754.50419"
+             id="tspan6316"><tspan
+               dx="0 0 0 0 0 0 0 0.00012207031"
+               style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+               id="tspan6314">A f i n a</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.08065271,0,0,0.08065271,-16.347766,-21.278147)"
+         id="text33137"
+         style="font-style:normal;font-weight:normal;font-size:200px;font-family:sans-serif;white-space:pre;shape-inside:url(#rect33139);fill:#000000;fill-opacity:1;stroke:none"
+         x="1528.2471"
+         y="0"><tspan
+           x="1211.6827"
+           y="1588.7383"
+           id="tspan6324"><tspan
+             style="font-weight:bold;font-family:'Times Newer Roman';-inkscape-font-specification:'Times Newer Roman,  Bold';text-align:center;text-anchor:middle"
+             id="tspan6318">Welcome to </tspan><tspan
+             dx="0 0 0 0 0 0 0 -0.00012207031 0 0 0 0 0 0 0.0001373291"
+             style="font-weight:bold;font-family:'Times Newer Roman';-inkscape-font-specification:'Times Newer Roman,  Bold'"
+             id="tspan6320">Afina installer</tspan><tspan
+             dx="-0.00022888184 -0.00010681152"
+             style="font-weight:bold;font-family:'Times Newer Roman';-inkscape-font-specification:'Times Newer Roman,  Bold';text-align:center;text-anchor:middle"
+             id="tspan6322">.
+</tspan></tspan><tspan
+           x="653.48382"
+           y="1851.1565"
+           id="tspan6332"><tspan
+             style="font-weight:bold;font-family:'Times Newer Roman';-inkscape-font-specification:'Times Newer Roman,  Bold';text-align:center;text-anchor:middle"
+             id="tspan6326">Please, read the </tspan><tspan
+             dx="0 0 0 0 0 0 0 -0.00010681152"
+             style="font-weight:bold;font-family:'Times Newer Roman';-inkscape-font-specification:'Times Newer Roman,  Bold'"
+             id="tspan6328">README.MD</tspan><tspan
+             dx="0 -0.00010681152 0 0 0.00012207031 0 0 -0.00010681152 -0.00010681152"
+             style="font-weight:bold;font-family:'Times Newer Roman';-inkscape-font-specification:'Times Newer Roman,  Bold';text-align:center;text-anchor:middle"
+             id="tspan6330"> files and </tspan></tspan><tspan
+           x="1405.4816"
+           y="2113.5747"
+           id="tspan6336"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010681152"
+             style="font-weight:bold;font-family:'Times Newer Roman';-inkscape-font-specification:'Times Newer Roman,  Bold';text-align:center;text-anchor:middle"
+             id="tspan6334">follow his instructions.</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
