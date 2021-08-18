@@ -92,22 +92,13 @@ Regardless of the location of your computer-whether it is an office or a home la
 $ chmod ugo+x ./src/afina
 
 
-# Для запуска в консольном режиме (dialog) и установки системы Archlinux:
+# Для запуска в консольном режиме (dialog):
 
 $ sudo ./src/afina -cli
 
-# Для запуска в графическом режиме (zenity) и установки системы Archlinux:
+# Для запуска в графическом режиме (zenity):
 
 $ sudo ./src/afina -gui
-
-
-# Для установки ArchISO в консольном (dialog) режиме:
-
-$ sudo ./src/afina -iso -cli
-
-# Для установки ArchISO в графическом (zenity) режиме:
-
-$ sudo ./src/afina -iso -gui
 ```
 
 Далее просто следуйсте указаниям мастер-установки.
@@ -131,22 +122,13 @@ It is enough to make one of the files executable and run it from the console:
 $ chmod ugo+x ./src/afina
 
 
-# To run in console mode (dialog) and install the Archlinux system:
+# To run in console mode (dialog):
 
 $ sudo ./src/afina -cli
 
-# To run in graphical mode (zenity) and install the Archlinux system:
+# To run in graphical mode (zenity):
 
 $ sudo ./src/afina -gui
-
-
-# To install ArchISO in console (dialog) mode:
-
-$ sudo ./src/afina -iso -cli
-
-# To install ArchISO in graphical (zenity) mode:
-
-$ sudo ./src/afina -iso -gui
 ```
 
 Then just follow the instructions of the installation wizard.
