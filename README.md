@@ -96,6 +96,7 @@ $ chmod ugo+x ./src/afina
 
 $ sudo ./src/afina -cli
 
+
 # Для запуска в графическом режиме (zenity):
 
 $ sudo ./src/afina -gui
@@ -125,6 +126,7 @@ $ chmod ugo+x ./src/afina
 # To run in console mode (dialog):
 
 $ sudo ./src/afina -cli
+
 
 # To run in graphical mode (zenity):
 
