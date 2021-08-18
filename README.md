@@ -8,7 +8,7 @@ Afina - Bash скрипт для установки системы Archlinux н�
 Afina - Bash script for installing the Archlinux system on a computer. 
 And also, installing the ArchISO system, which is running as a Live CD/DVD/USB, on a computer.
 
-<img src="https://raw.githubusercontent.com/maximalisimus/afina/main/image/arch_1280x640.png"  height="640">
+<img src="https://raw.githubusercontent.com/maximalisimus/afina/main/image/arch_1280x640.png"  height="400">
 
 ## Оглавление
 
